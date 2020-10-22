@@ -1,0 +1,23 @@
+# Game Options and Settings
+TITLE = "AKANOID"
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# Define Colours
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+
+# Block Settings
+BLOCK_WIDTH = 23
+BLOCK_HEIGHT = 15
+
+# Ball Settings
+BALL_INIT_SPEED = 5.0
+BALL_INIT_DIRECTION = 200 
+BALL_WIDTH = 10
+BALL_HEIGHT = 10
